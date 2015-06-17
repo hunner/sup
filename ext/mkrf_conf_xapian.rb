@@ -1,4 +1,4 @@
-require 'rubygems'
+require 'rubygems/commands/install_command'
 require 'rbconfig'
 
 begin
